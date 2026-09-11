@@ -1,115 +1,82 @@
-<p align="left">
-  <img src="./assets/hero.svg" width="100%" alt="I Gede Bagus Kelvin Andhika — a workspace connecting Android, language, and data. Based in Bali, Indonesia." />
-</p>
+# I Gede Bagus Kelvin Andhika
 
-[Selected work](#selected-work) · [Under the hood](#under-the-hood) · [Next chapter](#next-chapter)
+Information Technology Graduate · Gianyar, Bali, Indonesia
 
-I'm Kelvin, an Information Technology graduate from Universitas Udayana, based in Gianyar, Bali.
-I build Android experiences, connect claims with evidence, and turn comment data into readable trends.
+`input → system → interface`
 
-## Selected work
+I work with data and build the software around it.
+My background combines a Data Science focus at Universitas Udayana with Android development through Bangkit Academy. My projects span bilingual information verification, sentiment analysis, and a team-built mobile application.
 
-Three projects. Three ways to make information useful.
+## 01 / Selected work
 
-<!-- Replace the three PROJECT_URL_* placeholders with your actual project links. -->
+### Bilingual Information Verification System
 
-> ### 01 / Kiddos
-> **Food education, one Android screen at a time.**
->
-> An Android food education app built with a team during Bangkit Academy. My work connected the UI, navigation, and REST API integration, with testing and debugging along the way.
->
-> `Kotlin` · `XML` · `REST API`
->
-> ↳ **Top 50 teams** · Bangkit Product Track Capstone 2024
->
-> [Explore Kiddos →](PROJECT_URL_KIDDOS)
+An end-to-end system for verifying claims in Indonesian and English using Recognizing Textual Entailment (RTE).
 
-<details>
-<summary>Inside the build / my contribution</summary>
+Python · XLM-RoBERTa · SBERT · Elasticsearch · MongoDB · Streamlit
 
-- Implemented Android UI screens and navigation using Kotlin and XML.
-- Integrated REST APIs and tested and debugged app features.
-- Collaborated through Git and GitHub during the Mobile Development learning path.
+- Designed an NLP-based workflow connecting evidence retrieval and bilingual claim verification.
+- Included automated corpus updates and a Streamlit web interface.
+- Developed as my undergraduate thesis, bringing together applied machine learning, databases, and system design.
 
-</details>
+<!-- Add repository link: Bilingual Information Verification System -->
 
-<br />
+### Kiddos
 
-> ### 02 / Bilingual Information Verification
-> **A claim is a starting point. Evidence comes next.**
->
-> An end-to-end system for checking Indonesian and English claims: retrieve evidence, run NLP-based verification, and present the result through Streamlit. An automatically updated corpus supports the evidence search.
->
-> `Python` · `XLM-RoBERTa` · `SBERT` · `Elasticsearch` · `MongoDB` · `Streamlit`
->
-> ↳ **Indonesian + English** · Final project
->
-> [Explore the verification system →](PROJECT_URL_VERIFICATION)
+An Android food education application built with a capstone team at Bangkit Academy.
 
-<details>
-<summary>Inside the system / what connects</summary>
+Kotlin · XML · REST API · Android Studio
 
-The project brings evidence retrieval, bilingual NLP, database handling, and an application interface into one workflow. It connects model outputs to a usable verification experience.
+- Contributed to the Mobile Development team, implementing UI, navigation, and REST API integration.
+- Tested and debugged the application; used Git and GitHub for project collaboration.
+- Selected among the Top 50 Teams in the Bangkit Product Track Capstone Project 2024.
 
-`Claim → Evidence retrieval → NLP verification → Streamlit result`
+<!-- Add repository link: Kiddos -->
 
-</details>
+### YouTube Sentiment Analysis — IShowSpeed in China
 
-<br />
+An analysis of public sentiment across 26,000+ comments on IShowSpeed's livestreaming in China.
 
-> ### 03 / YouTube Sentiment Trends
-> **From a busy comment section to a readable picture.**
->
-> More than 26,000 comments from IShowSpeed's China livestreams, processed and classified into three sentiment classes with a fine-tuned BERT model, then explored through a Tableau dashboard.
->
-> `Python` · `MongoDB` · `BERT` · `Tableau`
->
-> ↳ **26K+ comments** · Sentiment analysis at scale
->
-> [Explore the sentiment analysis →](PROJECT_URL_SENTIMENT)
+Python · BERT · MongoDB · Tableau
 
-<details>
-<summary>Inside the analysis / from comments to dashboard</summary>
-
-- Processed comment data and handled it in MongoDB.
+- Processed comment data using Python and MongoDB.
 - Fine-tuned BERT for three-class sentiment classification.
-- Developed a Tableau dashboard to visualize sentiment trends.
+- Built a Tableau dashboard to visualize sentiment trends.
 
-</details>
+<!-- Add repository link: YouTube Sentiment Analysis -->
 
-<br />
+## 02 / Foundations
 
-## Under the hood
+### Universitas Udayana
 
-Tools I've used across applications, data work, and testing.
+Bachelor's Degree in Information Technology · Sep 2022 – Jul 2026  
+Data Science academic focus · GPA 3.90 / 4.00 · Cum laude
 
-| Workspace | Working tools |
+### Bangkit Academy 2024
+
+Mobile Development Learning Path · Sep – Dec 2024  
+Android development with Kotlin and XML, feature integration, and collaborative version control.
+
+## 03 / Working toolkit
+
+| Purpose | Technologies & practices |
 | :--- | :--- |
-| **Mobile** | Kotlin · XML · Android Studio |
-| **Data & language** | Python · Pandas · BERT · XLM-RoBERTa · SBERT |
-| **Storage & retrieval** | MongoDB · MySQL · Elasticsearch · REST API |
-| **Interfaces & analysis** | Streamlit · Tableau · Excel · Matplotlib |
-| **Build & verify** | Git · GitHub · Postman · Playwright · UAT |
+| Programming | Python · Kotlin · JavaScript |
+| Data analysis & visualization | Pandas · Matplotlib · Tableau · Microsoft Excel |
+| Data storage & integration | MySQL · MongoDB · REST API |
+| System design & documentation | UML · ERD · Technical Documentation |
+| Testing & API inspection | UAT · Playwright · Postman |
+| Systems & networking | Linux · Virtual Machine · TCP/IP · LAN/WLAN |
+| Development & collaboration | Git · GitHub · Android Studio · VS Code |
 
-<details>
-<summary>Also in the workspace</summary>
+## 04 / Areas of interest
 
-JavaScript · VS Code · Linux · Virtual Machines · TCP/IP · LAN/WLAN · UML · ERD · Technical Documentation
+Data-driven systems, applied NLP, and software development across web interfaces and Android applications.
 
-</details>
+## 05 / Connect
 
-<br />
-
-## Next chapter
-
-My degree focused on Data Science; Bangkit Academy 2024 gave me a place to build with Android and a team. I graduated from Universitas Udayana in 2026, cum laude, with a **3.90 / 4.00 GPA**.
-
-I'm ready to contribute to a team, keep learning, and build on what these projects have taught me.
-
-### Have something useful in mind?
-
-[LinkedIn ↗](https://linkedin.com/in/kelvinandhika) · [Email ↗](mailto:kelvinandhika11@gmail.com) · [More repositories ↗](https://github.com/MissingPoma?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/kelvinandhika) · [GitHub](https://github.com/MissingPoma) · [Email](mailto:kelvinandhika11@gmail.com)
 
 ---
 
-<sub>Gianyar, Bali / There is usually another detail worth getting right.</sub>
+<sub>From source data to the interface someone uses.</sub>
